@@ -4,7 +4,7 @@
     from every other vertex. The strongly connected components of an arbitrary directed graph form a partition into subgraphs
     that are theselves strongly connected. 
 
-   ![Screenshot]() 
+   ![Screenshot](http://farm3.staticflickr.com/2950/15349217285_653d5fb6fa.jpg) 
 
 ## References
   
