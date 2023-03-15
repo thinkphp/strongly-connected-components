@@ -10,6 +10,9 @@
 
    In computer science, Kosaraju's algorithm, also known as the Kosaraju-Sharir algorithm, is a linear
    time algorith to find the strongly connected components of a directed graph.   
+   
+   Demo:
+   https://ideone.com/AhiTUU
 
 ## References
   
